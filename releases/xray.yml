@@ -13,6 +13,6 @@ metadata:
 spec:
   releaseName: xray
   chart:
-    git: https://github.com/jfrog
+    git: https://github.com/jfrog/charts.git
     ref: master
-    path: charts/tree/master/stable/xray
+    path: stable/xray
