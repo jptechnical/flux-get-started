@@ -13,7 +13,6 @@ metadata:
 spec:
   releaseName: xray
   chart:
-    repository: https://github.com/jfrog
+    git: https://github.com/jfrog
+    ref: master
     path: charts/tree/master/stable/xray
-    name: xray
-    version: 5.1.3
