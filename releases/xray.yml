@@ -16,3 +16,4 @@ spec:
     repository: https://github.com/jfrog
     path: charts/tree/master/stable/xray
     name: xray
+    version: 1
